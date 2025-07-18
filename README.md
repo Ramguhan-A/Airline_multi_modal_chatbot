@@ -7,8 +7,8 @@
 # Technology Stack
  * Core LLM: Groq API services
  * External APIs:
-       * OpenAI API for TTS (Text-To-Speech)
-       * Flux for image generation
+   * OpenAI API for TTS (Text-To-Speech)
+   * Flux for image generation
  * Programming Language: Python
  * User Interface: Gradio
 
