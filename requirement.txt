@@ -1,0 +1,11 @@
+dotenv
+openai
+groq
+gradio
+Pillow
+pydub
+# uuid
+# subprocess
+# os
+# base64
+# io
