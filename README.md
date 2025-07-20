@@ -29,7 +29,7 @@
 # Final Thoughts
 This project demonstrates how thoughtful integration of AI technologies can reshape customer support in the airline industry. By merging cutting-edge LLMs with TTS and image tools, the agent delivers a far more **engaging**, **helpful**, and **scalable** support system than traditional bots.
 
-# Challenges Faced and Area of Improvement needed:
+# Challenges Faced and Areas for Improvement:
 - API Latency: Real-time performance was sometimes affected by latency from external APIs, especially during image generation or TTS processing.
 
 - Hallucinations from LLM: Despite few-shot prompting, the model occasionally generated inaccurate information, especially for highly specific airline queries like pricing. This was partially addressed using structured external data.
