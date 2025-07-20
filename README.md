@@ -4,6 +4,9 @@
 # Overview
 "The Informed Airline Customer Support Agent" is an advanced, AI-powered conversational chatbot designed to revolutionize customer interaction within the airline industry. By integrating powerful Large Language Models (LLMs) with specialized external APIs and internal data, this project creates an intelligent and multimodal agent capable of providing comprehensive, real-time, and engaging support to airline passengers. It aims to offer a seamless and rich user experience, transforming routine inquiries into informed and visually/auditorily enhanced interactions.
 
+<img width="2301" height="670" alt="Workflow" src="https://github.com/user-attachments/assets/c8db26b0-32b8-42e1-a8dc-c03c59c1033d" />
+
+
 # Technology Stack
  * Core LLM: Groq API services
  * External APIs:
